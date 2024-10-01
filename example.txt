@@ -1,1 +1,3 @@
 This is an example text.
+Added Text_1 Here (main/master branch)
+Added Text_2 Here (main/master branch)
