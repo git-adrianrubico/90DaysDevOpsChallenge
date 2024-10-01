@@ -1,3 +1,5 @@
 This is an example text.
 Added Text_1 Here (main/master branch)
 Added Text_2 Here (main/master branch)
+Will insert a text_1 here (feature-01)
+Will insert a text_2 here (feature-01)
